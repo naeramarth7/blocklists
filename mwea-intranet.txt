@@ -1,6 +1,5 @@
 ||intranet.maibornwolff.de/*/de.maibornwolff.confluence.MaibornWolffTheme:maintheme/*.js
 ||intranet.maibornwolff.de/*/de.maibornwolff.confluence.MaibornWolffTheme:maintheme/buttons.css
-||intranet.maibornwolff.de/*/de.maibornwolff.confluence.MaibornWolffTheme:maintheme/fonts.css
 ||intranet.maibornwolff.de/*/de.maibornwolff.confluence.MaibornWolffTheme:maintheme/mwea.css
 ||intranet.maibornwolff.de/*/de.maibornwolff.confluence.MaibornWolffTheme:maintheme/others.css
 ||intranet.maibornwolff.de/*/de.maibornwolff.confluence.MaibornWolffTheme:maintheme/roots.css
