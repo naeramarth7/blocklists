@@ -1,0 +1,9 @@
+||intranet.maibornwolff.de/*/de.maibornwolff.confluence.MaibornWolffTheme:maintheme/*.js
+||intranet.maibornwolff.de/*/de.maibornwolff.confluence.MaibornWolffTheme:maintheme/buttons.css
+||intranet.maibornwolff.de/*/de.maibornwolff.confluence.MaibornWolffTheme:maintheme/fonts.css
+||intranet.maibornwolff.de/*/de.maibornwolff.confluence.MaibornWolffTheme:maintheme/mwea.css
+||intranet.maibornwolff.de/*/de.maibornwolff.confluence.MaibornWolffTheme:maintheme/others.css
+||intranet.maibornwolff.de/*/de.maibornwolff.confluence.MaibornWolffTheme:maintheme/roots.css
+||intranet.maibornwolff.de/*/de.maibornwolff.confluence.MaibornWolffTheme:maintheme/search.css
+intranet.maibornwolff.de##.aui-header-inner:style(justify-content: space-around !important)
+intranet.maibornwolff.de###mwea-top-menu li.mwea-veilchen>a:style(color: white !important)
