@@ -6,3 +6,4 @@
 ||intranet.maibornwolff.de/*/de.maibornwolff.confluence.MaibornWolffTheme:maintheme/search.css
 intranet.maibornwolff.de##.aui-header-inner:style(justify-content: space-around !important)
 intranet.maibornwolff.de###mwea-top-menu li.mwea-veilchen>a:style(color: white !important)
+intranet.maibornwolff.de##.aui-icon-small.aui-icon-small:style(--aui-icon-size: 1rem !important)
